@@ -1,5 +1,5 @@
 html {
-  text-align: center;
+  text-align: left;
   font-family: Helvetica;
 }
 
@@ -13,7 +13,7 @@ html {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
-  color: white;
+  color: red;
 }
 
 .top p a {
